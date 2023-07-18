@@ -29,13 +29,17 @@
 
 ## Usage
 
-once packages installed, open a terminal and type the following: 
+once packages installed, open a terminal and type the following
 
   ```bash
   node server.js
 ```
 
+You may also choose to use a cloud service like Heroku to run your app. 
+
 ## Demo
+
+[See Active App Here](https://notes-app-1willcobb-e27b2217c55a.herokuapp.com/)
 
 ![Sample image](./assets/Screenshot%202023-07-17%20at%202.37.04%20PM.png)
 
